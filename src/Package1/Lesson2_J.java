@@ -11,5 +11,4 @@ public class Lesson2_J {
 			System.out.println("this is not my name");
 		}
 	}
-
 }
